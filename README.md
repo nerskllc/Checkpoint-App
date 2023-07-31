@@ -69,7 +69,7 @@ Here's a step-by-step guide to contributing code to Kanaries RATH:
 - Create a Pull Request(opens in a new tab) (a.k.a. Create a PR). We will review and process your Pull Request.
 - Now that your Pull Request has been approved, you've officially become a Genus Committer!
 
-🐞 How can I report an issue?
+# 🐞 How can I report an issue?
 The open-source community values constructive questions. Before submitting an issue, make sure you have done your research:
 
 - Avaialble documentations and FAQ.
@@ -78,43 +78,12 @@ The open-source community values constructive questions. Before submitting an is
   
 Open an issue(opens in a new tab) on the GitHub page with a detailed description of the problem. The community will be happy to help!
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-4. **Join the Developers List**: To foster a sense of community and to recognize the contributions of each participant, we encourage you to include your details in the Developers List located in the repository. Here's how you can do it:
+# 📐 Join the Developer List
+To foster a sense of community and to recognize the contributions of each participant, we encourage you to include your details in the Developers List located in the repository. Here's how you can do it:
 
-   a. In the repository's root directory, navigate to the "Developers" or "Contributors" folder.
+   a. In the repository's root directory, find to the "developers_list.md" file.
 
    b. Open the "developers_list.md" file.
 
@@ -132,24 +101,11 @@ _Below is an example of how you can instruct your audience on installing and set
 
    f. Submit a pull request (PR) with your modifications to the main branch of the project repository.
 
-5. **Submission and Evaluation**: Follow the submission guidelines provided in the repository to submit your project once it is completed.
-
-6. **Stay Updated**: Keep an eye on your email inbox and our official communication channels for any updates, announcements, or additional requirements related to the hackathon. It is crucial to stay informed about any changes or instructions throughout the process.
-
-By including their details in the Developers List, participants can showcase their contributions and become an integral part of the hackathon's collaborative community. This initiative aims to recognize and celebrate each participant's involvement and foster a sense of camaraderie among all contributors. Happy hacking!
-
-If you have any questions or encounter any issues during the registration process, please reach out to our support team at [support-email@example.com](mailto:support-email@example.com).
+If you have any questions or encounter any issues during this whole process, please reach out to our support team at [support-email@example.com](mailto:support-email@example.com).
 
 <!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
