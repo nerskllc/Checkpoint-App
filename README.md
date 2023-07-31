@@ -1,13 +1,4 @@
-<h1 align="center">Checkpoing App</h1>
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -17,59 +8,35 @@
   </a>
 
   <p align="center">
-    Mobile Attendance System Project
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/genus-so/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/genus-so/demo">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/genus-so/demo">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/genus-so/demo">Request Feature</a>
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+---
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+#  Checkpoint
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[Checkpoint](https://checkpoint.app) is a mobile attendance system built to eliminate the time and effort wasted in taking attendances in schools and colleges. It also greatly reduces the amount of paper resources needed in attendance data management.
 
-The mobile attendance system has been built to eliminate the time and effort wasted in taking attendances in schools and colleges. It also greatly reduces the amount of paper resources needed in attendance data management. The system is divided into following modules:
+<!-- DOCUMENTATION -->
 
-Thus this system automates attendance system and eliminates the use of paperwork needed for attendance marking and monitoring student attendance.
+## ☁ Documentation
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+For full documentation, visit [Documentation](docs.md)
 
-### Built With
+## 🛠️  Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This project was developed using a diverse set of frameworks and libraries, which contributed to its robustness and efficiency. 
+
+Here are the major technologies utilized:
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -80,46 +47,59 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+With this diverse technology stack, the project achieves a well-rounded combination of cutting-edge frontend and backend tools, ensuring a smooth and feature-rich user experience.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-4. **Join the Developers List**: To foster a sense of community and to recognize the contributions of each participant, we encourage you to include your details in the Developers List located in the repository. Here's how you can do it:
+<!-- CONTRIBUTING -->
+## 👥Contributing
 
-   a. In the repository's root directory, navigate to the "Developers" or "Contributors" folder.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💪 What can I contribute?
+
+You can contribute to Checkpoint in any form that you would like to! For instance, you may:
+
+- Participation in the community, by answering questions on GitHub open issues and in our chat groups, helps us maintain a healthy and active community of users.
+- We welcome your proposals for new features, as well as reporting issues and bugs to Checkpoint .
+- Submit codes to Checkpoint .
+- Other contributions include suggestions for website improvements and documentation.
+- Become a Top Genus Committer!
+
+## 📐 The contribution workflow
+Here's a step-by-step guide to contributing code to Kanaries RATH:
+
+- Take a look at the existing [Issues](https://checkpoint.app) or create a new issue.
+- [Fork the Repo](https://checkpoint.app) from our GitHub. Create a branch for any issue that you are working with, and commit your work.
+- Create a [Pull Request](https://checkpoint.app) (a.k.a. Create a PR). We will review and process your Pull Request.
+- Now that your Pull Request has been approved, you've officially become a Genus Committer!
+
+## 🐞 How can I report an issue?
+The open-source community values constructive questions. Before submitting an issue, make sure you have done your research and reviewed the following:
+
+- Avaialble documentations and FAQ.
+- Opened issues on our GitHub repo.
+- Existing Pull Requests.
+  
+Then you can open a new [Issues](https://checkpoint.app) on the GitHub page with a detailed description of the problem. The community will be happy to help!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📐 Join the Developer List
+To foster a sense of community and to recognize the contributions of each participant, we encourage you to include your details in the Developers List located in the repository. Here's how you can do it:
+
+   a. In the repository's root directory, find to the "developers_list.md" file.
 
    b. Open the "developers_list.md" file.
 
@@ -137,27 +117,14 @@ _Below is an example of how you can instruct your audience on installing and set
 
    f. Submit a pull request (PR) with your modifications to the main branch of the project repository.
 
-5. **Submission and Evaluation**: Follow the submission guidelines provided in the repository to submit your project once it is completed.
-
-6. **Stay Updated**: Keep an eye on your email inbox and our official communication channels for any updates, announcements, or additional requirements related to the hackathon. It is crucial to stay informed about any changes or instructions throughout the process.
-
-By including their details in the Developers List, participants can showcase their contributions and become an integral part of the hackathon's collaborative community. This initiative aims to recognize and celebrate each participant's involvement and foster a sense of camaraderie among all contributors. Happy hacking!
-
-If you have any questions or encounter any issues during the registration process, please reach out to our support team at [support-email@example.com](mailto:support-email@example.com).
+If you have any questions or encounter any issues during this whole process, please reach out to our support team at [support-email@example.com](mailto:support-email@example.com).
 
 <!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
-## Roadmap
+## 🆕 Roadmap
 
 - [x] Student Attendance List Creation
 - [x] Attendance Marking
@@ -168,54 +135,34 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
-## License
+## 💼 License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
-## Contact
+## 📱 Contact Us on Twitter
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Do you have any questions, feedback, or inquiries ? We'd love to hear from you! Reach out to us on X App, and our dedicated team will be delighted to assist you.
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Tweet us @genus_softorg, and we'll ensure a prompt response to your messages. Whether it's about our products, services, or any other matter related to our organization, we're here to help.
+
+Join our Twitter community today and stay updated with the latest news, events, and announcements. We look forward to engaging with you on our social media platform!
+
+#ContactUs #CustomerSupport #SocialMedia 
+
+Send us a DM on the X App - [Genus Software Organizaiton](https://twitter.com/genus_softorg) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## 🙏 Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+We would like to express our heartfelt gratitude to the following platforms, whose exceptional tools and resources played a pivotal role in bringing this project to life
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -227,8 +174,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
