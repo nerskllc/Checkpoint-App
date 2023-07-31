@@ -80,9 +80,9 @@ You can contribute to Checkpoint in any form that you would like to! For instanc
 ## 📐 The contribution workflow
 Here's a step-by-step guide to contributing code to Kanaries RATH:
 
-- Take a look at the existing [Issues](https://checkpoint.app) or create a new issue.
-- [Fork the Repo](https://checkpoint.app) from our GitHub. Create a branch for any issue that you are working with, and commit your work.
-- Create a [Pull Request](https://checkpoint.app) (a.k.a. Create a PR). We will review and process your Pull Request.
+- Take a look at the existing [Issues](https://github.com/genus-so/Checkpoint-App/issues) or create a new issue.
+- Fork the Repo into your github account. Create a branch for any issue that you are working with, and commit your work.
+- Create a [Pull Request](pullreq.md) (a.k.a. Create a PR). We will review and process your Pull Request.
 - Now that your Pull Request has been approved, you've officially become a Genus Committer!
 
 ## 🐞 How can I report an issue?
@@ -92,7 +92,7 @@ The open-source community values constructive questions. Before submitting an is
 - Opened issues on our GitHub repo.
 - Existing Pull Requests.
   
-Then you can open a new [Issues](https://checkpoint.app) on the GitHub page with a detailed description of the problem. The community will be happy to help!
+Then you can open a new [Issues](https://github.com/genus-so/Checkpoint-App/issues) on the GitHub page with a detailed description of the problem. The community will be happy to help!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
