@@ -1,13 +1,4 @@
-<h1 align="center">Checkpoing App</h1>
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -17,59 +8,35 @@
   </a>
 
   <p align="center">
-    Mobile Attendance System Project
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/genus-so/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/genus-so/demo">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/genus-so/demo">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/genus-so/demo">Request Feature</a>
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+---
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+#  Checkpoint
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Checkpoint is a mobile attendance system built to eliminate the time and effort wasted in taking attendances in schools and colleges. It also greatly reduces the amount of paper resources needed in attendance data management.
 
-The mobile attendance system has been built to eliminate the time and effort wasted in taking attendances in schools and colleges. It also greatly reduces the amount of paper resources needed in attendance data management. The system is divided into following modules:
+<!-- DOCUMENTATION -->
 
-Thus this system automates attendance system and eliminates the use of paperwork needed for attendance marking and monitoring student attendance.
+# ☁ Documentation
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+For full documentation, visit [Checkpoint.com/doc](https://github.com/genus-so/docs)
 
-### Built With
+# 🛠️  Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This project was developed using a diverse set of frameworks and libraries, which contributed to its robustness and efficiency. 
+
+Here are the major technologies utilized:
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -80,8 +47,36 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
+With this diverse technology stack, the project achieves a well-rounded combination of cutting-edge frontend and backend tools, ensuring a smooth and feature-rich user experience.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+# 💪 What can I contribute?
+
+You can contribute to Checkpoint in any form that you would like to! For instance, you may:
+
+- Participation in the community, by answering questions on GitHub open issues and in our chat groups, helps us maintain a healthy and active community of users.
+- We welcome your proposals for new features, as well as reporting issues and bugs to Checkpoint .
+- Submit codes to Checkpoint .
+- Other contributions include suggestions for website improvements and documentation.
+- Become a Top Genus Committer!
+
+# 📐 The contribution workflow
+Here's a step-by-step guide to contributing code to Kanaries RATH:
+
+- Take a look at the existing Issues(opens in a new tab) or create a new issue(opens in a new tab)!
+- Fork the Repo(opens in a new tab) from our GitHub. Create a branch for any issue that you are working with, and commit your work.
+- Create a Pull Request(opens in a new tab) (a.k.a. Create a PR). We will review and process your Pull Request.
+- Now that your Pull Request has been approved, you've officially become a Genus Committer!
+
+🐞 How can I report an issue?
+The open-source community values constructive questions. Before submitting an issue, make sure you have done your research:
+
+- Avaialble documentations and FAQ.
+- Open issues on our GitHub repo.
+- Existing Pull Requests.
+  
+Open an issue(opens in a new tab) on the GitHub page with a detailed description of the problem. The community will be happy to help!
 
 <!-- GETTING STARTED -->
 ## Getting Started
