@@ -124,16 +124,35 @@ If you have any questions or encounter any issues during this whole process, ple
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
+Sure! Let's convert the software steps from the previous result into the specified format:
+
 ## 🆕 Roadmap
 
-- [x] Student Attendance List Creation
-- [x] Attendance Marking
-- [ ] Attendance Storage
-- [ ] Attendance sheet transfer
-- [ ] Attendance Check
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Install Python and Kivy
+- [ ] Create Check App:
+  - [ ] Design user interface using Kivy's KV language or Python code
+  - [ ] Implement user registration functionality to store individual data (name, ID, etc.)
+  - [ ] Add QR code scanning functionality using Kivy's camera module or a third-party QR code scanner library
+  - [ ] Implement attendance recording and local storage to log attendance data
+- [ ] Create Point App:
+  - [ ] Design user interface to set up new meetings and generate QR codes using Kivy widgets
+  - [ ] Generate one-time use QR codes containing meeting/session details using Kivy's QR code generation feature or a third-party library
+- [ ] Data Export:
+  - [ ] Implement export functionality in the Check App to export attendance data in various formats (CSV, Excel, PDF)
+  - [ ] Use Python's built-in file I/O or libraries like Pandas to handle data export
+- [ ] Internet Connectivity:
+  - [ ] Ensure that the Point App and Check App have access to the internet to generate and verify QR codes. You may need to implement network-related functions or check internet connectivity.
+- [ ] User Interface Design:
+  - [ ] Focus on creating a user-friendly and intuitive interface for both the Check App and Point App using Kivy widgets and layouts.
+- [ ] Security Measures:
+  - [ ] While Kivy provides some basic functionality for UI security, you may need to consider additional security measures for QR code verification and data storage.
+- [ ] Testing and Debugging:
+  - [ ] Regularly test your apps on various devices and operating systems to ensure compatibility and responsiveness.
+  - [ ] Perform thorough testing to identify and fix any bugs or issues.
+- [ ] Deployment:
+  - [ ] Once your apps are ready, you can package them for distribution to users. Kivy supports multiple platforms, including Windows, macOS, Linux, Android, and iOS.
+- [ ] Data Privacy and Consent:
+  - [ ] Ensure that you comply with data privacy laws and obtain proper consent from individuals for collecting and storing their attendance data.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
